@@ -9,7 +9,7 @@
 #include <db_dot_command.h>
 
 void print_on_startup(){
-    printf("SQLITE CLONE v0.0.0 \n");
+    printf("Mini RDBMS v0.0.0 \n");
     printf("Type .help for help \n");
 }
 

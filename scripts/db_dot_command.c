@@ -3,7 +3,7 @@
 #include <db_memory.h>
 #include <stdio.h>
 #include <string.h>
-#define VERSION "SQLITE CLONE v0.0.0"
+#define VERSION "Mini RDBMS v0.0.0"
 
 void execute_dot_command(char* line){
     if(strcmp(line,".help") == 0){

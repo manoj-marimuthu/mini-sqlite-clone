@@ -1,10 +1,8 @@
-## Sqlite Mini Clone 
+## Mini RDBMS
 
 ### current version - v0.0.0 
 
-The following repository is a sqlite-inspired relational 
-database engine.Note that the original is massive and the
-clone will only implement the important subsets and features.
+an sqlite-inspired relational database engine written from scratch in C.
 
 ### Features 
 
