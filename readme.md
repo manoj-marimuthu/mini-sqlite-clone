@@ -49,12 +49,12 @@ INSERT INTO example(10,"Some random text");
 ```
 
 - To view the table
-```
+```sql
 SELECT * FROM example;
 ```
 - For now only ```*``` is supported and new features will be added in v0.1.0.
 - To see the table structure,
-```
+```sql
 DESCRIBE example;
 ```
 - The above displays column names, the data type it accepts and the size (in bytes).
