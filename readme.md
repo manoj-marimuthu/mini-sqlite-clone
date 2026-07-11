@@ -13,16 +13,16 @@ This database consists of an SQL-like language interpreter that interprets input
 ### Build instructions
 
 - Clone the repository
-```git
+```shell
 git clone https://www.github.com/manoj-marimuthu/mini-rdbms
 ```
 
 - Use the makefile
-```git
+```shell
 make
 ```
 - Remember that the command might differ based on the compiler or Operating system. For example-
-```git
+```shell
 mingw32-make
 ```
 - Use a C compiler such as mingw
