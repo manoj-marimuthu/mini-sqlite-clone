@@ -80,9 +80,9 @@ DESCRIBE example;
 
 ### Datatypes
 
-- INT - holds integer (no negatives / decimals yet, I was lazy to add them since my goal was to build a working version first and then progress it with features)
+- ```INT``` - holds integer (no negatives / decimals yet, I was lazy to add them since my goal was to build a working version first and then progress it with features)
 
-- TEXT - 32 byte string, fixed size (Will be variable size in the upcoming versions after paging).
+- ```TEXT``` - 32 byte string, fixed size (Will be variable size in the upcoming versions after paging).
 ### Future plans 
 
 - Bytecode compilation
